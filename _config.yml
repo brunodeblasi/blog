@@ -57,6 +57,8 @@ readme_index:
   remove_originals: false
   with_frontmatter: false
 
+emoji_dir: ./assets/emoji
+
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
@@ -64,3 +66,4 @@ plugins:
   - jekyll-twitter-plugin
   - jekyll-paginate
   - jekyll-readme-index
+  - gemoji

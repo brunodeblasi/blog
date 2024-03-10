@@ -11,4 +11,5 @@ group :jekyll_plugins do
   gem 'jekyll-twitter-plugin'
   gem 'jekyll-paginate'
   gem 'jekyll-readme-index'
+  gem 'gemoji'
 end
