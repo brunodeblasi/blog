@@ -2,6 +2,8 @@
 # This file contains configuration flags to customize your site
 #
 
+lang: pt-br
+
 # Name of your site (displayed in the navbar)
 name: Caderno de Anotações
 
