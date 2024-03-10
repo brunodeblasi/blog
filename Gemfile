@@ -10,3 +10,7 @@ group :jekyll_plugins do
   gem 'jekyll-feed'
   gem 'jekyll-multiple-languages-plugin'
 end
+
+group :development do
+  gem 'rake'
+end
