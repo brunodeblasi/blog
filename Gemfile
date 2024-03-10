@@ -9,4 +9,6 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'jekyll-feed'
   gem 'jekyll-twitter-plugin'
+  gem 'jekyll-paginate'
+  gem 'jekyll-readme-index'
 end

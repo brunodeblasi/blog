@@ -52,8 +52,15 @@ footer-links:
   rss: # just type anything here for a working RSS icon
   twitter: brunogdb
 
+readme_index:
+  enabled:          true
+  remove_originals: false
+  with_frontmatter: false
+
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-twitter-plugin
+  - jekyll-paginate
+  - jekyll-readme-index
