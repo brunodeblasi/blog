@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="archive">
-  {% for post in site.posts %} {% assign currDate = post.date | date: "%Y" %} 
+  {% for post in site.posts %}
   <div class="archive-item">
     <span class="post-date archive-date fs-4"
       >{{ post.date | date: "%d/%m/%Y" }}</span
