@@ -20,7 +20,7 @@ darkavatar: /assets/images/icon.png
 tagline: Caderno de anotações, ideias, pitacos e muito mais do jornalista Bruno De Blasi
 
 # A longer description used for the description meta tag. Also used as fallback for pages that don't provide their own description, and also as part of the page's title tag if neither page.title nor site.tagline has been defined.
-description: por Bruno De Blasi
+description: Caderno de anotações, ideias, pitacos e muito mais do jornalista Bruno De Blasi
 
 # The full URL to your site. Note: site.github.url will be used by default.
 url: blog.deblasi.com.br
@@ -52,7 +52,7 @@ footer-links:
   rss: # just type anything here for a working RSS icon
   twitter: brunogdb
 
-paginate: 15
+paginate: 1
 paginate_path: "/blog/page/:num/"
 
 readme_index:
