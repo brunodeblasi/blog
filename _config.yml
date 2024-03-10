@@ -3,6 +3,7 @@
 #
 
 lang: pt-br
+languages: ["pt-br"]
 
 # Name of your site (displayed in the navbar)
 name: Caderno de Anotações
@@ -56,3 +57,4 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-multiple-languages-plugin 
