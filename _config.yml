@@ -53,7 +53,7 @@ footer-links:
   twitter: brunogdb
 
 paginate: 1
-paginate_path: "/page/:num/"
+paginate_path: "/blog/page/:num/"
 
 readme_index:
   enabled:          true
