@@ -66,4 +66,4 @@ plugins:
   - jekyll-twitter-plugin
   - jekyll-paginate
   - jekyll-readme-index
-  - gemoji
+  - jem 'jemoji'
