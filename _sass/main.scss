@@ -73,6 +73,12 @@ pre.highlight {
   margin-right: 0.25rem !important;
 }
 
+.pagination {
+  display: inline;
+  float: left;
+  margin-top: 20px;
+}
+
 @media (prefers-color-scheme: dark) {
   .footer-icon-links {
     text-decoration: none;
