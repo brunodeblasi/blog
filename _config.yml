@@ -52,6 +52,9 @@ footer-links:
   rss: # just type anything here for a working RSS icon
   twitter: brunogdb
 
+paginate: 1
+paginate_path: "/page:num/"
+
 readme_index:
   enabled:          true
   remove_originals: false
