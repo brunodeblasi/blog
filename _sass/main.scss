@@ -79,6 +79,14 @@ pre.highlight {
   margin-top: 20px;
 }
 
+.previous {
+  margin-right: 50px;
+}
+
+.next {
+  margin-left: 50px;
+}
+
 @media (prefers-color-scheme: dark) {
   .footer-icon-links {
     text-decoration: none;
